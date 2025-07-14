@@ -3,22 +3,16 @@
 
 ---
 
-## 🧠 About Me | Sobre Mi
+## 🧠 About Me 
 
 
 🎯 I'm a **Front-End** developer focused on creating modern and dynamic interfaces.  
 📍 Avalible for remote jobs with **Angular, TypeScript, CSS3, and HTML5**.  
 🌎 Lenguages: **Spanish** and **English**, so i'm able to comunicate with international teams.
-
-🚀🚀🚀🚀🚀🚀🚀
-
-🎯 Soy un desarrollador **Front-End** enfocado en crear interfaces modernas y dinámicas.  
-📍 Disponible para trabajos remotos con **Angular, TypeScript, CSS3 y HTML5**.  
-🌎 Idiomas: **español** e **inglés**, y puedo comunicarme con equipos internacionales.  
-
+  
 ---
 
-## 🚀 Tech Stack | Tecnologias
+## 🚀 Tech Stack 
 
 <div align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -29,23 +23,16 @@
 
 ---
 
-## 🌐 Portfolio and Projects |   Portafolio y proyectos
+## 🌐 Portfolio and Projects 
 
-📌 Comming soon | Próximamente disponible: [**Web**]
+📌 Portfolio comming soon  [**Web**]
 
+🎬 [What the movie](https://github.com/JesusBrito1505/what-the-movie)
 
-
-### 🎬 Movie Search App
-
-Web App developed with **Angular** that allows you to search movies using the **OMDB API**.
+Web Application build with **Angular** and **TypeScript** that allows you to search movies using the **OMDB API**.
 Include desing responsvie and good software development practices.
 
-🚀🚀🚀🚀🚀🚀
-
-Aplicación web desarrollada con **Angular** que permite buscar películas mediante la **API de OMDB**.  
-Incluye funcionalidades modernas, diseño responsive y buenas prácticas de desarrollo.
-
-#### 🛠 Main features | Caracteristicas principales
+#### 🛠 Main features
 
 - 🔎 **Movie search** usign the OMDB API
 - 🧠 Use of **Angular lifecycle** (`ngOnInit`, `ngOnChanges`, etc.)
@@ -54,22 +41,13 @@ Incluye funcionalidades modernas, diseño responsive y buenas prácticas de desa
 - 💻 **Dashboard responsive** Using `Flex Layout`
 - 🎨 Styled with `CSS3` and Bootstrap following mobile-first design and development
 
-🚀🚀🚀🚀🚀🚀
-
-- 🔎 **Búsqueda de películas** usando la API de OMDb
-- 🧠 Uso de **ciclos de vida de Angular** (`ngOnInit`, `ngAfterViewInit`, etc.)
-- 🔗 **Llamadas a APIs** mediante `HttpClientModule`
-- 🧩 **Reactive forms**  (`ReactiveFormsModule`)
-- 💻 **Dashboard responsive** implementado con `Flex Layout`
-- 🎨 Estilizado con `CSS3` y Bootstrap siguiendo principios mobile-first
-
-## 📬 Contact | Contacto
+## 📬 Contact 
 
 <div align="center" style="margin-top: 20px;">
   <a href="mailto:email@jesusbrito.dev" target="_blank">
     <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/jesus-brito-gutierrez-a84b5419b/" target="_blank">
+  <a href="https://www.linkedin.com/in/jesus-ed-brito/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/JesusBrito1505" target="_blank">
@@ -78,7 +56,7 @@ Incluye funcionalidades modernas, diseño responsive y buenas prácticas de desa
 </div>
 
 
-## 🖥️ In action | En accion
+## 🖥️ In action 
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
@@ -87,6 +65,4 @@ Incluye funcionalidades modernas, diseño responsive y buenas prácticas de desa
 <div align="center" style="margin-top: 40px;">
   <b style="color:#000000;">Thank you for viewing my profile, don't hesitate to contact me. 👨‍💻</b>
 </div>
-<div align="center" style="margin-top: 40px;">
-  <b style="color:#000000;">Gracias por ver mi perfil, no dudes en contactarme.👨‍💻</b>
-</div>
+
