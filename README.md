@@ -7,7 +7,7 @@
 
 
 🎯 I'm a **Front-End** developer focused on creating modern and dynamic interfaces.  
-📍 Avalible for remote jobs with **Angular, TypeScript, CSS3, and HTML5**.  
+📍 Avalible for remote jobs with **Angular, TypeScript, CSS3, and HTML**.  
 🌎 Lenguages: **Spanish** and **English**, so i'm able to comunicate with international teams.
   
 ---
