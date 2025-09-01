@@ -25,7 +25,7 @@
 
 ## 🌐 Portfolio and Projects 
 
-📌 Portfolio[**https://www.jesusbrito.dev/**]
+📌 [Portfolio](https://www.jesusbrito.dev/)
 
 🎬 [What the movie](https://github.com/JesusBrito1505/what-the-movie)
 
